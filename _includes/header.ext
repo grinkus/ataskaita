@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ataskaita</title>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="Periodinė Karolio Grinkaus ataskaita reikalų, kurie virs cirku.">
+		<link href="/assets/css/style.css" rel="stylesheet">
+	</head>
+	<body>
+		{% if page.path == 'index.html' %}<a class="logo"><p>Ataskaita</p></a>{% else %}<a href="/index.html" class="logo"><p>Ataskaita</p></a>{% endif %}
