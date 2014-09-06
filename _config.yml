@@ -1,3 +1,5 @@
+baseurl: '/ataskaita'
+
 defaults:
   -
     scope:
