@@ -520,8 +520,10 @@ article > blockquote {
 }
 
 .twitter-tweet {
-	display: inline-block;
 	margin: 3em auto !important;
+}
+.twitter-tweet-rendered {
+	display: inline-block;
 }
 
 @media (min-width: 600px) {
