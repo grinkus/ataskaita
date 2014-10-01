@@ -45,7 +45,7 @@ kokiai profesijai atstovauji, nei kurioje šalyje gyveni.“
 
 * * *
 
-Worst business idea ever: sitas, kuriame tu, kaip vartotojas, kas mėnesį 
+Worst business idea ever: site'as, kuriame tu, kaip vartotojas, kas mėnesį 
 sumoki savo nustatytą sumą ir pasižadi padaryti vieną dalyką. „Statau €40, kad 
 šį mėnesį sportuosiu bent tris kartus per savaitę, kiekvieną savaitę“. Gale 
 mėnesio gauni du mygelius – „įvykdžiau“ arba „susimokėsiu“. Įvykdžius pažadą,
