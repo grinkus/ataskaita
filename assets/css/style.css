@@ -581,3 +581,31 @@ article > ul > li {
 		margin: 0;
 	}
 }
+
+a.annotation {
+	font-size: 0.6em;
+	padding: 0.2em;
+	position: relative;
+	top: -0.5em;
+	border-bottom: 0;
+}
+
+a.annotation:hover {
+	border-bottom: 1px dashed;
+}
+
+aside.annotation {
+	font-size: 0.875em;
+}
+
+aside.annotation > header:after {
+	content: '.';
+}
+aside.annotation > p {
+	padding-left: 0.5em;
+}
+
+aside.annotation > header,
+aside.annotation > p {
+	display: inline-block;
+}
