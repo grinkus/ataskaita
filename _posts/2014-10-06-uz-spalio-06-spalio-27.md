@@ -45,7 +45,7 @@ rėmais, kad juos kur.
 * * *
 
 Dabar bandau darbintis. Buvau keliose vietose, pasikalbėjom, bet visose jose 
-vis išlįsdavo toks sakinys: „<...>, bet pas mus taip nebūna“. Ir aš niekaip 
+vis išlįsdavo toks sakinys: „<…>, bet pas mus taip nebūna“. Ir aš niekaip 
 nesuprantu kodėl. Man belieka daryti išvadą, jog žmogus, kuris taip sako, yra 
 dirbęs tokioje (nepageidaujamoje) aplinkoje ir dėl to jam gėda, todėl kaip 
 ginybos mechanizmą naudoja „bet pas mus tai ne taip“, arba „pas juos“ yra būtent 
