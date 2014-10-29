@@ -24,7 +24,7 @@ Spoksant į tuščią balkono sieną Viltei iš jo išnešus pomidorus, kilo min
 pačiam pabandyti užauginti [gyvą pomidorų (ar kokių prieskonių) sieną](http://www.bltrobotics.com/farm.php) 
 su automatiniu laistymu ir, galbūt, saulės šviesa. Kaip sako, roges ruošk 
 vasarą, o apie [gyvą sieną](http://hackersphere007.blogspot.com/2014/06/the-living-wall.html) 
-mąstyk spalio mėnesį. [garden bot](http://gardenbot.org/about/) turi daugiau 
+mąstyk spalio mėnesį. [GardenBot](http://gardenbot.org/about/) turi daugiau 
 nuorodų.
 
 Smagus daiktas turint pinigų – [fotosintezės analizatorius](http://www.adafruit.com/products/1722) 
