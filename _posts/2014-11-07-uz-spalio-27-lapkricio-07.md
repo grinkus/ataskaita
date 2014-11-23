@@ -52,7 +52,8 @@ Kiekvienas dirba sau ir savo nariams be jokio noro kolaboruotis rodymo.
 Nežinau kaip tai spręsti, bet vidinė maker'ių problema galėtų būti 
 apmažinama paleidus šitą įrankį ir leidžiant prisijungti visiems. Plačiau 
 apie mintį paskaityt galima [wiki][sandėlis] ir diskusijoj sudalyvauti 
-[aptarime][issues]. Jei yra noras šiaip pasišnekėti – [visada prašom](freenode).
+[aptarime][issues]. Jei yra noras šiaip pasišnekėti – [visada prašom][freenode].
 
 [sandėlis]: https://github.com/makerspacelt/sandelis/wiki
 [issues]: https://github.com/makerspacelt/sandelis/issues
+[freenode]: irc://chat.freenode.net/#kaunas-makerspace
