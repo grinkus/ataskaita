@@ -56,3 +56,4 @@ apie mintį paskaityt galima [wiki][sandėlis] ir diskusijoj sudalyvauti
 
 [sandėlis]: https://github.com/makerspacelt/sandelis/wiki
 [issues]: https://github.com/makerspacelt/sandelis/issues
+[freenode]: irc://chat.freenode.net/#kaunas-makerspace
