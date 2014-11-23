@@ -2,9 +2,6 @@
 title: už lapkričio 07 – lapkričio 23, 2014
 ---
 
-* Framework
-* Informacijos pateikimas arba gavimas
-
 Žmonės pasirodo statosi [braškių bokštus][strawberry tower] visai sėkmingai. 
 Reiškia, visai įmanoma, kad ir pas mane vasarėjant toks atsiras. Jei jos ir 
 nenorės augti, bent jau pažaisiu. Yra [OpenHydroponics][] iniciatyva su šiek 
